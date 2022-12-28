@@ -3,11 +3,11 @@ Cyber security adalah tindakan yang dilakukan untuk melindungi sistem komputer d
 <br><br>
 Konsep dasar cyber security mengikuti praktik CIA Triad yang meliputi <b>confidentiality (kerahasiaan)</b>, <b>integrity (integritas)</b>, dan <b>availability (ketersediaan)</b>.
 
-### Keahlian Dibidang Cyber Security
-1. Security Architect
-2. Penetration Tester
-3. Security Analyst
-4. Digital Forensic and Incident Responder
+### Bidang Cyber Security
+1. [Security Architecture](<Security Architecture/Reference.md>)
+2. [Penetration Test](<Penetration Test/Reference.md>)
+3. [Security Analysis](<Security Analysis/Reference.md>)
+4. [Digital Forensics and Incident Response](<Digital Forensics and Incident Response/Reference.md>)
 
 <br>
 coming soon...
