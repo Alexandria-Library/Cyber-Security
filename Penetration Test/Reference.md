@@ -15,11 +15,18 @@ Penetration Test (Pentest) adalah sebuah metode untuk melakukan evaluasi dan ana
 ### Tingkat Pemula
 * [Linux Fundamental (Aguna Course)](https://www.agunacourse.com/kelas/linux-fundamental) :indonesia:
 * [Python Fundamental (Aguna Course)](https://www.agunacourse.com/kelas/python-fundamental) :indonesia:
+* [Introduction to Cybersecurity (Cisco Academy)](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) :us:
+* [Cybersecurity Basics (edX)](https://www.edx.org/course/cybersecurity-basics?index=product&queryID=a81d65dea384bf0322c7a19de7cb3c3a&position=1) :us:
 * [Classical Cryptography for Beginner (Cyber Academy)](https://www.cyberacademy.id/belajar-online/classical-cryptography-for-beginner) :indonesia:
 * [Web Application Scanning (Qualys)](https://www.qualys.com/training/course/web-application-scanning/) :us:
+* [Ethical Hacking Essentials (CodeRed)](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false) :us:
+* [Penetration Testing - Discovering Vulnerabilities (edX)](https://www.edx.org/course/penetration-testing-discovering-vulnerabilities?index=product&queryID=b854eb90d61d7270fc18b9f1160c50ed&position=3) :us:
+* [Web Security (PortSwigger)](https://portswigger.net/web-security) :us:
+* [Kali Linux Fundamentals (Cybrary)](https://www.cybrary.it/course/kali-linux-fundamentals/) :us:
+* 
 
 ### Tingkat Menengah
-Coming soon...
+* [Cybersecurity Essentials (Cisco Academy)](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) :us:
 
 ### Tingkat Mahir
 Coming soon...
@@ -61,6 +68,13 @@ Coming soon...
 * [TryHackMe](https://tryhackme.com/) :us:
 * [Pentester Academy](https://www.pentesteracademy.com/) :us:
 * [Root-me](https://www.root-me.org/?page=news&lang=en) :us:
+* [Port Swigger](https://portswigger.net/web-security/all-labs) :us:
+* [PentesterLab](https://pentesterlab.com/) :us:
+
+## Sertifikat Gratis
+* [ISC(2) Certified in Cybersecurity](https://www.isc2.org/Certifications/CC?filter=featured&searchRoot=A82B5ABE5FF04271998AE8A4B5D7DEFD) :us:
+* [NSE 1](https://training.fortinet.com/course/index.php/Certification:NSE_1/) :us:
+* [NSE 2](https://training.fortinet.com/course/index.php/Certification:NSE_2/) :us:
 
 ## Kisaran Gaji
 Coming soon...
