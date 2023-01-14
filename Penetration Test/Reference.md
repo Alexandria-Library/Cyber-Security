@@ -23,7 +23,6 @@ Penetration Test (Pentest) adalah sebuah metode untuk melakukan evaluasi dan ana
 * [Penetration Testing - Discovering Vulnerabilities (edX)](https://www.edx.org/course/penetration-testing-discovering-vulnerabilities?index=product&queryID=b854eb90d61d7270fc18b9f1160c50ed&position=3) :us:
 * [Web Security (PortSwigger)](https://portswigger.net/web-security) :us:
 * [Kali Linux Fundamentals (Cybrary)](https://www.cybrary.it/course/kali-linux-fundamentals/) :us:
-* 
 
 ### Tingkat Menengah
 * [Cybersecurity Essentials (Cisco Academy)](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) :us:
